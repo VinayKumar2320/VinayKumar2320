@@ -12,20 +12,13 @@ Agentic AI | Multimodal Systems | Applied Machine Learning
 
 ## About
 
-I build AI systems that combine reasoning, perception, and decision-making.  
-Currently pursuing an M.S. in Computer Science at NYU, focused on agentic AI, multimodal learning, and scalable ML systems.
+ML systems engineer specializing in agentic AI and multimodal architectures. 
+NYU CS graduate student with hands-on expertise building production intelligent systems: 
+autonomous agents, retrieval-augmented generation pipelines, and real-time ML inference. 
+Background in ML engineering, computer vision, and systems-level optimization.
 
 ---
 
-## Experience
-
-- **AI/ML Engineer Intern — Healium Intelliscan**  
-  Built image processing pipelines for 80k+ medical images, reducing manual effort by 79%
-
-- **Data Science Intern — KreditBee**  
-  Developed fraud detection and risk systems, reducing false positives by 76%
-
----
 
 ## Skills
 
